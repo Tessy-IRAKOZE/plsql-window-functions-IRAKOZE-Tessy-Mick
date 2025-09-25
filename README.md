@@ -52,8 +52,30 @@ Transactions TABLE
 SQL Commands:
 ![srs 3](https://github.com/user-attachments/assets/b39e6612-7ee5-4af8-ab31-aa3b7845967b)
 
-There outcomes in tables:
+There outcomes in tables in cmd:
 ![tables](https://github.com/user-attachments/assets/3fbb2087-830e-4664-9050-35860ffef9bd)
+
+As the above screenshots indicate the tables in cmd and also the commands how they were created there is also some commands on inserting the data in the tables:
+![srs 12](https://github.com/user-attachments/assets/ad45d070-f797-4998-91fa-6b3996c2d4e1)
+
+
+also as the result of what is written in cmd it has to be dispalyed in oracle as the tool we are using and the screenshot of the tables that have have been created are below:
+![srs 8](https://github.com/user-attachments/assets/6193b0d4-e09b-4e9a-b601-cf1ebc7ba414)
+![srs 9](https://github.com/user-attachments/assets/530d65e6-287e-4847-94c9-4f4e5f187fee)
+![srs 10](https://github.com/user-attachments/assets/4318fea9-1746-44a1-9647-21c384f65b96)
+
+In addition, while using oracle you have to create a user and a password that you are going to perform the action of creation, deletion and modification of tables so first and foremost you must create a user where it differ from may be other tools of operation such as MYSQL where here it does not mainly require a user you operate in the default user known as the root and just create a database where in oracle the database is not necessary. so, with that being said i created a user named "auca" and inserted a password as shown in a diagram below:
+![srs 11](https://github.com/user-attachments/assets/9a084113-afd9-4dc3-8798-6fc61ea735fc)
+
+Furthermore, there is what we call the models in database or what we describes the relationship betwween the tables that have been created same applies on this asignments i created three tables as stated above known as customers,products and transactions and there relationship can be expressed also in the screenshots that are below:
+![srs 13](https://github.com/user-attachments/assets/5ac254ce-f4b9-4c92-b38f-c3344309e39d)
+![srs 14](https://github.com/user-attachments/assets/879cbcfa-78ab-4084-acab-89ca17d56baf)
+![srs 15](https://github.com/user-attachments/assets/959ad4d7-3983-4aaa-ac90-2ecc60e5bdf9)
+
+
+
+
+
 
 ## ER DIAGRAM
 <img width="1419" height="347" alt="ER_Diagram_Standard" src="https://github.com/user-attachments/assets/26fd9768-7d79-40f4-b849-839dfc2c90cc" />
