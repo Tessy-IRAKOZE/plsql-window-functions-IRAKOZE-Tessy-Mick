@@ -106,6 +106,13 @@ This allows you to compare a customer’s sales from one month to another
  CUME_DIST() shows the cumulative distribution position of each customer in the revenue ranking.
  ![srs 7](https://github.com/user-attachments/assets/5825f796-495c-471c-a92c-ce3d2ae62791)
 
+ other informative screenshots:
+ ![srs 16](https://github.com/user-attachments/assets/3ba0aa0f-36d8-44a3-a74d-cf7a6615c1b5)
+ ![srs 17](https://github.com/user-attachments/assets/2e1f0fd1-164e-447c-b356-e35add6cf07f)
+ ![srs 18](https://github.com/user-attachments/assets/5b33ff87-fe6b-4ec6-801f-fd670e1e72d0)
+
+
+
  # STEP 6: RESULTS ANALYSIS
  Descriptive (What happened?)
 
